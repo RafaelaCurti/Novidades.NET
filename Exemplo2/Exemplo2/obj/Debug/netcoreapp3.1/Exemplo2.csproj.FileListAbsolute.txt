@@ -1,0 +1,13 @@
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.csprojAssemblyReference.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.AssemblyInfoInputs.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.AssemblyInfo.cs
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.exe
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.deps.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.runtimeconfig.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.runtimeconfig.dev.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.dll
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.pdb
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.dll
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.pdb
+C:\Users\agropc.AGRO-DEV-08\source\repos\Novidades\Exemplo2\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.genruntimeconfig.cache
