@@ -19,9 +19,10 @@ namespace Exemplo2
                 Nome = "Guinther",
                 SobreNome = "Pauli",
             };
-            WriteLine(string.Format("Bem-vindo {0} {1} ({2}), este é o C# 6", 
-                p.Nome, p.SobreNome, p.Matricula));
-                ReadLine();
+            //WriteLine(string.Format("Bem-vindo {0} {1} ({2}), este é o C# 6", 
+            // p.Nome, p.SobreNome, p.Matricula));
+            WriteLine("Bem-vindo " + p.Nome + " " + p.SobreNome + " ( " + p.Matricula + "), este é o C# 6");
+            ReadLine();
         }
     }
 }
