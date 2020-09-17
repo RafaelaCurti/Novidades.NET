@@ -1,0 +1,13 @@
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\bin\Debug\netcoreapp3.1\Exemplo4.exe
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\bin\Debug\netcoreapp3.1\Exemplo4.deps.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\bin\Debug\netcoreapp3.1\Exemplo4.runtimeconfig.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\bin\Debug\netcoreapp3.1\Exemplo4.runtimeconfig.dev.json
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\bin\Debug\netcoreapp3.1\Exemplo4.dll
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\bin\Debug\netcoreapp3.1\Exemplo4.pdb
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\obj\Debug\netcoreapp3.1\Exemplo4.csprojAssemblyReference.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\obj\Debug\netcoreapp3.1\Exemplo4.AssemblyInfoInputs.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\obj\Debug\netcoreapp3.1\Exemplo4.AssemblyInfo.cs
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\obj\Debug\netcoreapp3.1\Exemplo4.csproj.CoreCompileInputs.cache
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\obj\Debug\netcoreapp3.1\Exemplo4.dll
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\obj\Debug\netcoreapp3.1\Exemplo4.pdb
+C:\Users\agropc.AGRO-DEV-08\source\repos\Exemplo4\Exemplo4\obj\Debug\netcoreapp3.1\Exemplo4.genruntimeconfig.cache

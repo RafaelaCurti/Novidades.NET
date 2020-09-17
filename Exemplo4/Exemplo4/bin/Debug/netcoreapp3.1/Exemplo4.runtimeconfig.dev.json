@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\agropc.AGRO-DEV-08\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\agropc.AGRO-DEV-08\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
